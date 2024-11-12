@@ -6,4 +6,5 @@ nginx
 --platform=linux/amd64 chatimage/chatchat:0.3.1.3-93e2c87-20240829
 kenneth850511/llamafactory
 nvcr.io/nvidia/pytorch:24.02-py3
+justsong/one-api
 
