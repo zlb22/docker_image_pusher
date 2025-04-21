@@ -11,3 +11,4 @@ overv/openstreetmap-tile-server
 mediagis/nominatim:4.2
 ghcr.io/project-osrm/osrm-backend:latest
 alpine/git
+busybox
