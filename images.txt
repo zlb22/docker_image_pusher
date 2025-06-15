@@ -13,5 +13,5 @@ ghcr.io/project-osrm/osrm-backend:latest
 alpine/git
 busybox
 ocss884/verl-sglang:ngc-th2.6.0-cu126-sglang0.4.6.post5
-docker pull hiyouga/verl
+hiyouga/verl:ngc-th2.6.0-cu126-vllm0.8.4-flashinfer0.2.2-cxx11abi0
 
